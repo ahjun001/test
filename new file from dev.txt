@@ -1,1 +1,2 @@
 original text
+was modified in the browser though
